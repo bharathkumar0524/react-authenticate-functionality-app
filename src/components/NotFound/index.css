@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.not-found-container {
+  display: flex;
+  justify-content: center;
+}
+.not-found-heading {
+  font-size: 28px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}

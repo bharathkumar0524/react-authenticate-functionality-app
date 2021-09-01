@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: center;
+}
+
+.link-text {
+  font-size: 24px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  padding-right: 10px;
+}
